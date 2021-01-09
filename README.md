@@ -32,6 +32,6 @@ Tentative lectures are denoted in *italic*.
 * Week 7 (9/10) - Interval vertex deletion admits a polynomial kernel (Host: TAMREF) [(V)](https://youtu.be/xTn8q4Pocn0)
 * Week 8 (10/8) - New Hardness Results for Planar Graph Problems in P and an Algorithm for Sparsest Cut (Host: gritukan) [(V)](https://youtu.be/9j18R0G2pys)
 * Week 9 (10/15) - On a Decentralized $(\Delta +1)$-Graph Coloring Algorithm (Host: Kim Taeyeon) [(V)](https://youtu.be/S-3p8WzTaQM)
-* *Week 10 (11/12) - Simple Greedy 2-Approximation Algorithm for the Maximum Genus of a Graph (Host: TAMREF)*
-* *Week 11 (11/19) - Deterministic (1/2 + ε)-Approximation for Submodular Maximization over a Matroid (Host: 300iq)*
-* *Week 12 (11/26) - Dynamic Minimum Spanning Forest with Subpolynomial Worst-case Update Time (Host: koosaga)*
+* Week 10 (1/9) - Deterministic (1/2 + ε)-Approximation for Submodular Maximization over a Matroid (Host: 300iq) [(V)](https://youtu.be/TNespjfQwVM)
+* Week 11 (1/9) - Simple Greedy 2-Approximation Algorithm for the Maximum Genus of a Graph (Host: TAMREF) [(V)](https://youtu.be/OZW-fgb2qJ0)
+* Week 12 (1/9) - Dynamic Minimum Spanning Forest with Subpolynomial Worst-case Update Time (Host: koosaga) [(V)](https://youtu.be/GsoIdeP_Ru8)
