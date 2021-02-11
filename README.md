@@ -4,22 +4,37 @@
 
 ## Members
 
-| Display name | Name             | Period |
-| ------------ | ---------------- | ------ |
-| koosaga      | Jaehyun Koo      | S1     |
-| 300iq        | Ildar Gainullin  | S1     |
-| Aeren        | Yonghyun An      | S1     |
-| gritukan     | Grigory Reznikov | S1     |
-| Kim Taeyeon  | Harris Leung     | S1     |
-| TAMREF       | Changki Yun      | S1     |
+| Display name  | Name             | Period |
+| ------------- | ---------------- | ------ |
+| koosaga       | Jaehyun Koo      | S1, S2 |
+| Ce Jin        | Ce Jin           | S2     |
+| Aeren         | Yonghyun An      | S1, S2 |
+| siroo fanclub | Jongseo Lee      | S2     |
+| I am worried  | Changki Yun      | S1, S2 |
 
 ### Alumni
 
-
+| Display name  | Name             | Period |
+| ------------- | ---------------- | ------ |
+| 300iq         | Ildar Gainullin  | S1     |
+| gritukan      | Grigory Reznikov | S1     |
+| Kim Taeyeon   | Harris Leung     | S1     |
 
 ## Schedules
 
 Tentative lectures are denoted in *italic*.
+
+### Season 2
+* *Week 1 (2/22) - Maintaining Information in Fully-Dynamic Trees with Top Trees (Host: koosaga)*
+* *Week 2 (3/1) - Deterministic Approximation for Submodular Maximization over a Matroid in Nearly Linear Time (Host: leejseo)*
+* *Week 3 (3/8) - Minimum Cuts in Near-Linear Time (Host: TAMREF)*
+* *Week 4 (3/15) - Sylvester-Gallai type theorems for quadratic polynomials (Host: Aeren)*
+* *Week 5 (3/22) - A Fine-Grained Perspective on Approximating Subset Sum and Partition (Host: Ce Jin)*
+* *Week 6 (3/29) - Expander Decomposition and Pruning: Faster, Stronger, and Simpler. (Host: koosaga)*
+* *Week 7 (4/26) - Generalized Sorting with Predictions (Host: leejseo)*
+* *Week 8 (5/3) - Three-in-a-Tree in Near Linear Time (Host: TAMREF)*
+* *Week 9 (5/10) - Approximating APSP without Scaling: Equivalence of Approximate Min-Plus and Exact Min-Max (Host: Ce Jin)*
+* *Week 10 (5/17) - Pseudorandom Generators for Group Products (Host: Aeren)*
 
 ### Season 1
 
