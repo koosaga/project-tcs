@@ -9,7 +9,7 @@
 | koosaga       | Jaehyun Koo      | S1, S2 |
 | Ce Jin        | Ce Jin           | S2     |
 | Aeren         | Yonghyun An      | S1, S2 |
-| siroo fanclub | Jongseo Lee      | S2     |
+| leejseo       | Jongseo Lee      | S2     |
 | I am worried  | Changki Yun      | S1, S2 |
 
 ### Alumni
