@@ -25,12 +25,12 @@
 Tentative lectures are denoted in *italic*.
 
 ### Season 2
-* *Week 1 (2/22) - Maintaining Information in Fully-Dynamic Trees with Top Trees (Host: koosaga)*
-* *Week 2 (3/1) - Deterministic Approximation for Submodular Maximization over a Matroid in Nearly Linear Time (Host: leejseo)*
-* *Week 3 (3/8) - Minimum Cuts in Near-Linear Time (Host: TAMREF)*
-* *Week 4 (3/15) - Sylvester-Gallai type theorems for quadratic polynomials (Host: Aeren)*
-* *Week 5 (3/22) - A Fine-Grained Perspective on Approximating Subset Sum and Partition (Host: Ce Jin)*
-* *Week 6 (3/29) - Expander Decomposition and Pruning: Faster, Stronger, and Simpler. (Host: koosaga)*
+* Week 1 (2/22) - Maintaining Information in Fully-Dynamic Trees with Top Trees (Host: koosaga) [(V)](https://www.youtube.com/watch?v=XHyEbHr5CkQ)
+* Week 2 (3/1) - Deterministic Approximation for Submodular Maximization over a Matroid in Nearly Linear Time (Host: leejseo) [(V)](https://www.youtube.com/watch?v=QQFLe64gjsQ)
+* Week 3 (3/8) - Minimum Cuts in Near-Linear Time (Host: TAMREF) [(V)](https://www.youtube.com/watch?v=APwvGfGVUG4)
+* Week 4 (3/15) - Sylvester-Gallai type theorems for quadratic polynomials (Host: Aeren) [(V)](https://www.youtube.com/watch?v=jQ4il1hDMUU)
+* Week 5 (3/22) - A Fine-Grained Perspective on Approximating Subset Sum and Partition (Host: Ce Jin) [(V)](https://www.youtube.com/watch?v=hxSKaUacy0o)
+* Week 6 (3/29) - Expander Decomposition and Pruning: Faster, Stronger, and Simpler. (Host: koosaga) [(V)](https://www.youtube.com/watch?v=lEqHtc9Ni9A)
 * *Week 7 (4/26) - Generalized Sorting with Predictions (Host: leejseo)*
 * *Week 8 (5/3) - Three-in-a-Tree in Near Linear Time (Host: TAMREF)*
 * *Week 9 (5/10) - Approximating APSP without Scaling: Equivalence of Approximate Min-Plus and Exact Min-Max (Host: Ce Jin)*
